@@ -1,0 +1,9 @@
+text,prediction,confidence,mlflow_model_name,mlflow_model_version,mlflow_alias,hf_model_id
+The customer service was excellent and very helpful.,positive,0.9988596439361572,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+I am disappointed with the quality of this product.,negative,0.9995027780532837,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+The experience was wonderful from beginning to end.,positive,0.9988890290260315,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+The delivery was late and the package was damaged.,negative,0.9994927644729614,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+The movie was enjoyable and I would recommend it.,positive,0.9989098310470581,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+The product is average and meets basic expectations.,positive,0.9975716471672058,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+Absolutely fantastic service and a pleasant experience.,positive,0.9989221096038818,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english
+The food was cold and the staff were unhelpful.,negative,0.999502420425415,SentimentChampionChallenger,1,champion,siebert/sentiment-roberta-large-english

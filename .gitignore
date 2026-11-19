@@ -4,4 +4,7 @@ __pycache__/
 *.py[cod]
 .DS_Store
 mlruns/
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
 .env

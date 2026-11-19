@@ -1,0 +1,28 @@
+[
+  {
+    "role": "A",
+    "model_id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+    "run_id": "b819d01bebb04550bb5c938ed214eea0",
+    "accuracy": 0.5733333333333334,
+    "macro_f1": 0.5717917837548507,
+    "weighted_f1": 0.5717917837548507,
+    "precision_positive": 0.5833333333333334,
+    "recall_positive": 0.5133333333333333,
+    "latency_seconds": 7.082383958040737,
+    "latency_per_sample_ms": 23.607946526802454,
+    "eval_samples": 300
+  },
+  {
+    "role": "B",
+    "model_id": "siebert/sentiment-roberta-large-english",
+    "run_id": "bdfe3d81d43f49d89edfc960196cb438",
+    "accuracy": 0.5966666666666667,
+    "macro_f1": 0.5826386892785282,
+    "weighted_f1": 0.5826386892785282,
+    "precision_positive": 0.5707317073170731,
+    "recall_positive": 0.78,
+    "latency_seconds": 52.68710908293724,
+    "latency_per_sample_ms": 175.62369694312414,
+    "eval_samples": 300
+  }
+]

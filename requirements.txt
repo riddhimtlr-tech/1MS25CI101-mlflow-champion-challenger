@@ -2,3 +2,6 @@ mlflow>=3.0
 scikit-learn
 pandas
 numpy
+torch
+transformers
+matplotlib

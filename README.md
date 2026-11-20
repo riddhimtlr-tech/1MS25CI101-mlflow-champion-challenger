@@ -51,3 +51,8 @@ The evaluation uses a limited sample of news headlines and descriptions. Dataset
 ## AI Assistance Disclosure
 
 AI assistance was used to support code development, debugging, project organization, and documentation. The reported metrics come from running the evaluation scripts in this project.
+
+
+## AI Assistance Declaration
+
+I used ChatGPT to understand project requirements, assist with Python code, troubleshoot errors, and prepare documentation. I reviewed and tested the implementation and take responsibility for the submitted work and reported results.
